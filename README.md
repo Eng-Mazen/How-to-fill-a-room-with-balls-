@@ -1,2 +1,8 @@
 # How-to-fill-a-room-with-balls-
-This MATLAB script estimates how many solid, non-deformable balls are needed to fill a room with perfect geometry, based on volume calculations under idealized conditions.
+## Overview
+This MATLAB script calculates the number of solid, non-deformable balls required to completely fill a room under idealized conditions. The assumptions include:
+- The balls are perfectly rigid and cannot deform.
+- The room has perfect geometric boundaries.
+- The calculation is based on volume considerations under these constraints.
+
+The purpose of this code is to provide users with an estimate of how many balls are needed to occupy the entire room space according to the specified conditions.
